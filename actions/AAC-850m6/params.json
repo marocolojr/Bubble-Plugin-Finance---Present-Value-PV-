@@ -1,0 +1,40 @@
+{
+    "category": "plugins",
+    "display": "Finance - Present Value (PV)",
+    "fields": {
+        "AAD": {
+            "caption": "rate (%)",
+            "default_val": 5,
+            "editor": "DynamicValue",
+            "name": "rate",
+            "rank": 0,
+            "value": "number"
+        },
+        "AAE": {
+            "caption": "cashFlow",
+            "default_val": 100,
+            "editor": "DynamicValue",
+            "name": "cashflow",
+            "rank": 1,
+            "value": "number"
+        },
+        "AAF": {
+            "caption": "numberPeriods",
+            "default_val": 1,
+            "editor": "DynamicValue",
+            "name": "numberperiods",
+            "rank": 2,
+            "value": "number"
+        }
+    },
+    "return_value": {
+        "AAG": {
+            "caption": "returnResult",
+            "name": "returnresult",
+            "rank": 0,
+            "value": "number"
+        }
+    },
+    "type": "server_side",
+    "use_packages": true
+}

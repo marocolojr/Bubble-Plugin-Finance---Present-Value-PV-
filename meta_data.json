@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "productivity"
+    },
+    "description": "Present Value (PV) is the current worth of a future sum of money or stream of cash flows given a specified rate of return.\n\nActions - Finance Present (PV)\n\nReturns - returnresult",
+    "image": "//s3.amazonaws.com/appforest_uf/f1673222694246x444427225914539840/money-cash-business-cart-finance-svgrepo-com.svg",
+    "license": "open_source",
+    "name": "Finance - Present Value (PV)",
+    "sa_node_version": 14
+}
